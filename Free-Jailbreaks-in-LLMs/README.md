@@ -1,7 +1,7 @@
 # Free Jailbreaks in LLMs
 
 ## About this repository
-This repository gathers the appendices of **Exploring Jailbreaks in Large Language Models** paper.  
+This repository gathers the appendices of **Exploring Jailbreaks in Large Language Models: An Experimental Analysis of Safety Barriers** paper.  
 
 ## Contents
 - (under construction)
