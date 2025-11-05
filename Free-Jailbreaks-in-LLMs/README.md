@@ -17,7 +17,7 @@ This repository gathers the appendices of **_Exploring Jailbreaks in Large Langu
     * Visual documentation of experimental inputs and outputs, including edited and original images, and a full prompt screen capture for analysis.
 
 ## Backup
-- [Aqui](under construction)
+- [http://google.com](under construction)
 
 ## Notes
 These materials are supplementary to the main paper and are provided for transparency and replication purposes.
