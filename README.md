@@ -1,3 +1,3 @@
 # README
 ## Research
-Directories for some of my research projects.
+Directories of some of my research projects.
