@@ -1,7 +1,7 @@
 # Computer Science Curricula
 
 ## About this repository
-This repository gathers the appendices of **Segurança Computacional nos Currículos dos Cursos de Ciência da Computação em Instituições Federais de Ensino da Região Sul do Brasil** (**_Cybersecurity in Computer Science Curricula of Federal Educational Institutions in Southern Brazil_**) paper(s).
+This repository gathers the files of **Segurança Computacional nos Currículos dos Cursos de Ciência da Computação em Instituições Federais de Ensino da Região Sul do Brasil** (**_Cybersecurity in Computer Science Curricula of Federal Educational Institutions in Southern Brazil_**) research.
 
 ## Contents
 - **Appendix A** – Links to the analyzed *Pedagogical Development Programs*.
