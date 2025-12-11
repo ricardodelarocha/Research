@@ -1,0 +1,29 @@
+Pedagogical Development Program – PDF File Hashes
+Hash dos arquivos PDF dos Projetos Pedagógicos de Cursos (PPCs)
+
+Institution         Hash
+IFPR                00977b0638e189c43955a3e82f5c8b6f00c2473a4eca6c49e2b7795a880c4176
+UFPR                06b1253c328cfb46721e20854bf5ca4d312c6304375bf932d2808773f3edcac8
+UTFPR Campo Mourao  10f38fba5c85b0fbabf03628e839fbc1e766e447f502de05c6c5e64a21316bd6
+UTFPR Medianeira    5833add49e1cae22995ef0cb595997470168a6e76e02d376f887278a153403df
+UTFPR Ponta Grossa  6bed1124b7c951ce28f60f157c8589dcfbb0bdf8d54a8abecf6d15d1cf3b7827
+UTFPR Santa Helena  b7fb907a8969a861d0518fa361c2157b46d6ab9435ea8b5213159966d2652b7d
+IFRS                18e47fc685f77f362dd0501cf55b5d2a6835a63244b06405b08b638644274640
+IFSul               39858ab019d9f653caf5a6423737b812e9caf3af18f0b402b6406302fa796fa1
+UFPel               9d384db7c74d4d223c8e2750aa988aad9c62b443c201b3da964b183a4e6bd34d
+UFRGS               c31515dffdff976393ea6e743a479f5c90718482eb9c37e44c7bc320dfc80c4f
+UFSM                9a7b82bdf0d06f4b62fa8bb7a0ba28d35934ddbdf928b0720bfa1f8fb417fe2d
+UNIPAMPA            6dbce28579596f6cfdd0a38213e4c40efe2d10481f56f561e5248a2acc753f74
+IFC Blumenau        9304c4fb957bbb6c62bcb9c8f5ecf603b65d2e4aa54ea534bfa31e5e4db451e7
+IFC Concordia       90966819458af4e61c44e68284bac12bc2ae3296977582bec00a5f620c9e86e5
+IFC Rio do Sul      ae85f31f586c506e5758062bf13650df0024c0536b4dc9b170676700b68d0460
+IFC Videira         f578c663b8c4965d8e16fb6b8b978a91bb25001c667486dad2ed74524d28fcf3
+IFSC                045acf2a160c48d666d3bc8790ac3d39dd44aa79ad68a49d133022cc7cb48bbc
+UFFS                3dd7e70f6f55c678f62616e1e10ceb61883846d1ef7ec13cfcbb4fcefd2c2af2
+UFSC                8ae29295fd1532ae2d729111d81ee054681010f22211f1d7842e2fcda5f50c5e
+
+After downloading the Pedagogical Development Programs, verify whether the hash matches the one listed in this file. If it does not match, the data may not be the same.
+Após baixar os PPCs, verifique se o hash corresponde ao que consta neste arquivo. Se não corresponder, os dados podem não ser os mesmos.
+
+The hashes were generated using `sha256sum *` in the Pedagogical Development Program repository.
+Os hashes foram gerados com `sha256sum *` no repositório de PPCs
