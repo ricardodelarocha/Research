@@ -18,4 +18,5 @@ This repository gathers the files of **Segurança Computacional nos Currículos 
 
 ## Notes
 The documents are updated regularly, but we maintain previous versions. When reading the documents, it is advisable to check the date on which the data was collected.
-- All data presented in Appendix A in version 3 were collected on **December 10, 2025**.
+
+- The data from the latest versions refers to research conducted on **December 12, 2025**.
