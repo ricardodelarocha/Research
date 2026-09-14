@@ -1,9 +1,9 @@
-# Free Jailbreaks in LLMs
+# Hands-On LLM Security: A Classroom Experiment 
 
 This work contains sensitive material, but its purpose is purely didactic. All experiments were performed responsibly in controlled environments, with no intent of malicious use. Readers are strongly discouraged from replicating these actions outside academic or ethical research contexts.
 
 ## About this repository
-This repository gathers the appendices of **_Exploring Jailbreaks in Large Language Models: An Experimental Analysis of Safety Barriers_** paper.
+This repository gathers the appendices of **_Hands-On LLM Security: A Classroom Experiment _** paper.
 
 ## Contents
 
